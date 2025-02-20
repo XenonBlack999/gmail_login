@@ -16,4 +16,4 @@ A collection of customizable and responsive login page templates for Facebook, G
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/login-page-templates.git
+   git clone https://github.com/XenonBlack999/gmail_login.git
